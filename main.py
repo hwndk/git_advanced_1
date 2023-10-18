@@ -1,4 +1,3 @@
-keleton code for even_list
 from typing import List
 
 
